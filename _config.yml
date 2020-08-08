@@ -39,6 +39,7 @@ social:
 
 # Build settings
 markdown: kramdown
+remote_theme: AP
 
 # Assets
 sass:
